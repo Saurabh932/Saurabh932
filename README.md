@@ -24,7 +24,7 @@ Building modern web applications • Backend APIs • AI-integrated solutions
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,js,postgres,mysql,redis,aws,docker,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,postgres,mysql,redis,aws,docker,linux,git,github,ruby,rails&theme=dark" />
 
 </div>
 
