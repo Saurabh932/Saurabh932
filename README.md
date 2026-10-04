@@ -2,22 +2,22 @@
 
 # Hi, I'm Saurabh 👋
 
-### Junior Ruby on Rails Software Engineer
+### Software Engineer | Full-Stack Developer
 
-Building scalable backend systems • REST APIs • AI-powered applications
-
-</div>
+Building modern web applications • Backend APIs • AI-integrated solutions
 
 ---
 
 # 👨‍💻 About Me
 
-- 💼 Working as a **Junior Ruby on Rails Software Engineer**
-- 🌱 Currently learning **Advanced Ruby on Rails, System Design, PostgreSQL, and Backend Architecture**
-- 🚀 Passionate about building scalable and maintainable web applications
+- 💼 Working as a **Software Engineer**, building and maintaining production web applications
+- 🌐 Building **full-stack applications** across backend and frontend technologies
+- 🐍 Working with **Python, FastAPI, Ruby on Rails, React, and REST APIs**
+- 🔧 Interested in **backend architecture, databases, APIs, and scalable systems**
+- 🤖 Exploring practical ways to **integrate AI into applications** and improve existing workflows
+- 🌱 Currently learning **System Design, PostgreSQL, cloud technologies, and modern software architecture**
 - 🤝 Contributing to **Open Source**
-- 📖 Always learning new technologies and improving my development skills
-
+- 📖 Always learning, building, and improving my development skills
 ---
 
 # 🛠️ Tech Stack
