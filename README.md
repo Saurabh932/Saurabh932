@@ -6,9 +6,11 @@
 
 Building modern web applications • Backend APIs • AI-integrated solutions
 
+</div>
+
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 💼 Working as a **Software Engineer**, building and maintaining production web applications
 - 🌐 Building **full-stack applications** across backend and frontend technologies
@@ -18,6 +20,7 @@ Building modern web applications • Backend APIs • AI-integrated solutions
 - 🌱 Currently learning **System Design, PostgreSQL, cloud technologies, and modern software architecture**
 - 🤝 Contributing to **Open Source**
 - 📖 Always learning, building, and improving my development skills
+
 ---
 
 # 🛠️ Tech Stack
